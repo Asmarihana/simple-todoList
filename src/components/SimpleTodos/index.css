@@ -1,0 +1,12 @@
+.background {
+  background-color: #ffc2a0;
+  height: 100vh;
+}
+.card {
+  background-color: white;
+  border-radius: 5px;
+  margin: 20px;
+}
+h1 {
+  color: #ff8542;
+}
