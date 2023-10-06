@@ -49,7 +49,7 @@ class SimpleTodos extends Component {
   }
 
   render() {
-    const todosList = this.state
+    const {todosList} = this.state
     return (
       <div className="background">
         <div className="card">
